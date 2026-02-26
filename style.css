@@ -29,14 +29,3 @@ header h1{
   text-align: center;
  
 }
-nav{
-    display:inline-flex;
-    flex-direction: row;
-}
-
-li{list-style-type: none;;
-    font-size:2em;
-    padding-left:1em;
-    color:yellow;
-    background-color: rgb(10, 126, 28);
-}
